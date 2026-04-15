@@ -56,9 +56,13 @@ Este sistema permite monitorar e controlar o ambiente, garantindo melhores condi
 - Criar um sistema de monitoramento remoto
 - Enviar alertas para o celular
 
-## 🎥 Demonstração em Vídeo
+## 🎥 Funcionamento do arduíno em Vídeo
 
 [![Assista ao vídeo](https://img.youtube.com/vi/S5ldT6d_qgc/maxresdefault.jpg)](https://www.youtube.com/watch?v=S5ldT6d_qgc)
+
+## 🎥 Explicando o projeto em Vídeo
+
+[![Assista ao vídeo](https://img.youtube.com/vi/75CyhTiD054/maxresdefault.jpg)](https://www.youtube.com/watch?v=75CyhTiD054)
 
 ## 👨‍💻 Autores
 
