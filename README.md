@@ -56,6 +56,10 @@ Este sistema permite monitorar e controlar o ambiente, garantindo melhores condi
 - Criar um sistema de monitoramento remoto
 - Enviar alertas para o celular
 
+## 🎥 Demonstração em Vídeo
+
+[![Assista ao vídeo](https://img.youtube.com/vi/S5ldT6d_qgc/maxresdefault.jpg)](https://www.youtube.com/watch?v=S5ldT6d_qgc)
+
 ## 👨‍💻 Autores
 
 Projeto desenvolvido por Henrique Fredi, Henrique Vieira e Leonardo Barrocal.
