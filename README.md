@@ -55,6 +55,8 @@ Este sistema permite monitorar e controlar o ambiente, garantindo melhores condi
 - Adicionar sensor de umidade
 - Criar um sistema de monitoramento remoto
 - Enviar alertas para o celular
+## Link do tinkercard
+https://www.tinkercad.com/things/1Ksg3ozFYDG-frantic-migelo-uusam/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=Jnjb5Yc8HUxR1CMnXxee23Zj7kLpigfYEPy6Or1Uwyw
 
 ## 🎥 Simulação do arduíno em Vídeo
 
