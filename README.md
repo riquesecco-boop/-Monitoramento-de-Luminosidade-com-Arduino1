@@ -66,7 +66,10 @@ Este sistema permite monitorar e controlar o ambiente, garantindo melhores condi
 
 ## 👨‍💻 Autores
 
-Projeto desenvolvido por Henrique Fredi, Henrique Vieira e Leonardo Barrocal.
+Projeto desenvolvido por: 
+Henrique Fredi RM:570257
+Henrique Vieira RM:569586 
+Leonardo Barrocal RM:571031
 
 
   
